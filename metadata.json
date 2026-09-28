@@ -1,0 +1,6 @@
+{
+  "name": "AI Hybrid VTOL Rescue Drone Simulation",
+  "description": "Interactive 3D mission control simulation for AI-powered hybrid VTOL rescue drone operations, visual SLAM navigation, LoRa telemetry, and disaster payload delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
